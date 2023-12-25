@@ -23,7 +23,7 @@ Please make sure that all the following files exist in this repository:
 
 ### Submission Deadline
 
-The submission deadline for this assignment is **January 4, 2023, 23:55**.
+The submission deadline for this assignment is **January 4, 2024, 23:55**.
 
 ### Checking Your Grade
 
