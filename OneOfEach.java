@@ -5,6 +5,12 @@
  */
 public class OneOfEach {
 	public static void main (String[] args) {
-		//// Put your code here
+		int a = 5;
+		int b = 6;
+		int c = 7;
+		int d = 8;
+		int e = 9;
+		int f = 10;
+		
 	}
 }
